@@ -1,0 +1,6 @@
+# herdr runtime state
+session.json
+session-snapshots/
+*.log
+*.sock
+*.sock.*

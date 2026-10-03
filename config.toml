@@ -1,0 +1,18 @@
+onboarding = false
+
+[ui]
+status_indicators = "symbols"
+
+[ui.toast]
+delivery = "system"
+
+[theme]
+name = "rose-pine"
+auto_switch = false
+
+[keys]
+prefix = "ctrl+space"
+previous_tab = ["prefix+left", "ctrl+shift+left"]
+next_tab = ["prefix+right", "ctrl+shift+right"]
+previous_workspace = ["prefix+up", "ctrl+shift+up"]
+next_workspace = ["prefix+down", "ctrl+shift+down"]
